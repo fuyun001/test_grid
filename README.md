@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Grit
 ====
 
@@ -234,3 +235,6 @@ Copyright
 ---------
 
 Copyright (c) 2008 Tom Preston-Werner. See LICENSE for details.
+=======
+# test_grid
+>>>>>>> ea9494267196ee9826d5de775d0159d4ea21b35f
